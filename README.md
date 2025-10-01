@@ -24,6 +24,17 @@
 - 📫 Reach me : <a href="https://www.linkedin.com/in/dinooka-wakista/">LinkedIn</a>
 - 💜 Interests: 🏖️ 🐶 🏊‍♂️
 
+<br></br>
+
+<div align="center">
+  <h2>📊 Profile stats</h2>
+<!-- 
+![Dinooka's GitHub Stats](https://github-readme-stats-faisal.vercel.app/api?username=dinooka&show_icons=true&theme=radical) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dinooka&hide=scss,css,html&theme=dark&show_icons=true&locale=en&layout=compact)
+
+</div>
+
 <!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dinooka&show_icons=true)
 

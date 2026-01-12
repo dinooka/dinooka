@@ -31,7 +31,9 @@
 <!-- 
 ![Dinooka's GitHub Stats](https://github-readme-stats-faisal.vercel.app/api?username=dinooka&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dinooka&hide=scss,css,html&theme=dark&show_icons=true&locale=en&layout=compact)
+<!-- ![Top Lang-x](https://github-readme-stats.vercel.app/api/top-langs?username=dinooka&hide=scss,css,html&theme=dark&show_icons=true&locale=en&layout=compact) -->
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dinooka&hide=scss,css,html&theme=dark&layout=compact)
 
 </div>
 
